@@ -6,4 +6,25 @@ body {
 .title {
     text-align: center;
     padding-top: 5rem;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.item-container {
+    display: grid;
+    margin-top: 1rem;
+}
+
+.category {
+    margin: 0 .5rem;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1rem;
+    border-radius: .5rem;
+    padding: .25rem;
 }
